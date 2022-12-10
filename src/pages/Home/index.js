@@ -10,6 +10,7 @@ import trash from '../../assets/images/icons/trash.svg';
 export default function HomePage() {
   return (
     <Container>
+
       <InputSearchContainer>
         <input type="text" placeholder="Pesquisar contato..." />
       </InputSearchContainer>
